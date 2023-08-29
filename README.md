@@ -22,6 +22,7 @@ Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas na FATEC
 |CSS Flexbox | Origamid |
 |Flutter | Bootcamp Santander - DIO |
 | Networking Essentials | Cisco |
+| Introduction to IoT | Cisco |
 | Mainframe | FATEC |
 |  |  |  
 
