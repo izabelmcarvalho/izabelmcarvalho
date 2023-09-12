@@ -9,9 +9,10 @@ Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas na FATEC
 |  |  |  |
 | ---------|--------|------------|
 | English - C2 Proficient | EF SET | 10/08/2023 |
-| SCRUM Fundamentals | SCRUMstudy | 22/08/2023 |
+| Design Thinking | FIAP | 11/09/2023 |
 | Adobe XD | Origamid | 12/07/2023 |
 | HTML5 e CSS3 | Curso em Vídeo | 07/05/2023 |
+| SCRUM Fundamentals | SCRUMstudy | 22/08/2023 |
 | Lean Seis Sigma White Belt | FM2S Educação e Consultoria | 23/02/2023 |
 |  |  |  |
 
