@@ -14,6 +14,8 @@ Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas na FATEC
 | HTML5 e CSS3 | Curso em Vídeo | 07/05/2023 |
 | SCRUM Fundamentals | SCRUMstudy | 22/08/2023 |
 | Lean Seis Sigma White Belt | FM2S Educação e Consultoria | 23/02/2023 |
+| Introduction to IoT | Cisco | 30/08/2023 |
+| Flutter | DIO - Santander | 06/10/2023 |
 |  |  |  |
 
 
@@ -21,9 +23,9 @@ Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas na FATEC
 |  |  |  
 | -------|--------|
 |CSS Flexbox | Origamid |
-|Flutter | Bootcamp Santander - DIO |
 | Networking Essentials | Cisco |
-| Introduction to IoT | Cisco |
+| WordPress | Curso em Video |
+| Banco de Dados | Ada Tech |
 | Mainframe | FATEC |
 |  |  |  
 
