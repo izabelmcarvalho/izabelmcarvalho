@@ -1,10 +1,9 @@
 # Olá, eu sou a Izabel 👋
 
-🎓 Recém-formada em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul.
-💼 Atualmente, atuo como Analista de Dados Júnior, com foco em transformar dados em insights para apoiar a tomada de decisões.
+Sou recém-formada em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul e atuo como Analista de Dados Júnior, com foco em transformar dados em insights para apoiar a tomada de decisões.
 
 ### 💻 Tecnologias e Ferramentas:
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="22"> &nbsp; <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="22"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="24"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="16"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="24"> &nbsp; <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" width="26">
+<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="26"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="24"> &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="26"> &nbsp; <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="22"> &nbsp; <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="22"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="24"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="16"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="26"> &nbsp; <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" width="27">
 
 ### 🎓 Certificações:
 |  |  |  |
@@ -18,18 +17,6 @@
 | Introduction to IoT | Cisco | 30/08/2023 |
 | Flutter | DIO - Santander | 06/10/2023 |
 |  |  |  |
-
-
-### 📚 O que estou aprendendo: 
-|  |  |  
-| -------|--------|
-|CSS Flexbox | Origamid |
-| Networking Essentials | Cisco |
-| WordPress | Curso em Video |
-| Banco de Dados | Ada Tech |
-| Mainframe | FATEC |
-|  |  |  
-
 
 ### 📪 Entre em contato comigo!
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="14"> 
