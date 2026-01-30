@@ -1,10 +1,46 @@
 <div align="center">
-<h1>Olá 👋</h1>
-<p>Eu sou a Iza</p>
-![focus](https://img.shields.io/badge/Data_Analytics-gold) ![living](https://img.shields.io/badge/Brazil-silver) 
+# Olá! 👋
 
-<p>▪️ Recém formada em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul</p>
-<p>▪️ Trabalhando como Analista de Dados Jr. na Impulse Tecnologia</p>
+Eu sou a Iza.
+
+Atualmente sou **Analista de Dados Jr** e pós-graduanda em **Data Analytics** pela FIAP 👩‍🎓. Sou apaixonada por transformar dados complexos em decisões inteligentes e eficientes. 
+
+Meu foco é utilizar **Python**, **SQL** e **Business Intelligence** para eliminar ineficiências — no meu último projeto, reduzi o tempo de uma rotina de dados em 97% através de automação ✨. Também adoro explorar como o Design (UI/UX) pode tornar Dashboards mais intuitivos.
+
+### 🛠 Minhas Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 👩‍💻 Who am I?
+
+```python
+class SobreMim:
+    user = 'Izabel Carvalho'
+    cargo_atual = 'Analista de Dados Jr @ Impulse'
+    formacao = [
+        'Pós-graduação em Data Analytics (FIAP)',
+        'Tecnóloga em ADS (Fatec)'
+    ]
+    
+    hobbies = [
+        'Jogar (Watch Dogs, Far Cry)',
+        'Montar e otimizar PCs (Hardware lover)',
+        'Estudar Investimentos',
+        'Automatizar tarefas repetitivas (bye bye, tédio!)'
+    ]
+
+    def get_localizacao(self):
+        return 'São Paulo, Brasil'
+
+    def ambicoes(self):
+        self.aprimorar('Python & Machine Learning')
+        self.transformar('Dados em Estratégia')
+        self.viajar('Conhecer o mundo')
+        # E claro, eliminar o próximo processo manual que eu encontrar ;)
 
 ---
 
