@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Olá 👋</h1>h1>
-<p>Eu sou a Iza</p>
+<h1>Olá 👋</h1>
+<h2>Eu sou a Iza</h2>
 ![focus](https://img.shields.io/badge/Data_Analytics-gold) ![living](https://img.shields.io/badge/Brazil-silver) 
 
 <p>▪️ Recém formada em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul</p>
