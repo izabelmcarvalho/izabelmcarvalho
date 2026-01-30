@@ -5,7 +5,7 @@ Eu sou a Iza
 
 Sou apaixonada por transformar dados brutos em decisões inteligentes. Atuo como Analista de Dados, onde foco em eficiência operacional e automação de processos.
 
-Meu foco é utilizar **Python**, **SQL** e **Business Intelligence** para eliminar ineficiências — no meu último projeto, reduzi o tempo de uma rotina de dados em 97% através de automação ✨. Também adoro explorar como o design (UI/UX) pode tornar dashboards mais intuitivos.
+Meu foco é utilizar ferramentas para eliminar ineficiências — no meu último projeto, reduzi o tempo de uma rotina de dados em 97% através de automação ✨. Também adoro explorar como o design (UI/UX) pode tornar dashboards mais intuitivos.
 
 ### 🛠 Minhas Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
