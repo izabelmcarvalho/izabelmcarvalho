@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Olá 👋</h1>
 
-Eu sou a Iza.
+Eu sou a Iza
 
-Atualmente sou **Analista de Dados Jr** e pós-graduanda em **Data Analytics** pela FIAP 👩‍🎓. Sou apaixonada por transformar dados complexos em decisões inteligentes e eficientes. 
+Sou apaixonada por transformar dados brutos em decisões inteligentes. Atualmente, atuo como Analista de Dados, onde foco em eficiência operacional e automação de processos.
 
-Meu foco é utilizar **Python**, **SQL** e **Business Intelligence** para eliminar ineficiências — no meu último projeto, reduzi o tempo de uma rotina de dados em 97% através de automação ✨. Também adoro explorar como o Design (UI/UX) pode tornar Dashboards mais intuitivos.
+Meu foco é utilizar **Python**, **SQL** e **Business Intelligence** para eliminar ineficiências — no meu último projeto, reduzi o tempo de uma rotina de dados em 97% através de automação ✨. Também adoro explorar como o design (UI/UX) pode tornar dashboards mais intuitivos.
 
 ### 🛠 Minhas Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
