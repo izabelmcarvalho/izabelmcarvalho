@@ -7,8 +7,6 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
   <h1>Hello 👋</h1>
 
