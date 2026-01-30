@@ -1,5 +1,5 @@
 <div align="center">
-# Olá! 👋
+<h1>Olá 👋</h1>
 
 Eu sou a Iza.
 
