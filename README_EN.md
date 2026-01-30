@@ -1,9 +1,9 @@
-<div align="center">
+<div align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Idioma-PT--BR-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-0B6E4F?style=flat-square">
   </a>
   <a href="./README_EN.md">
-    <img src="https://img.shields.io/badge/Language-EN-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Language-EN-C9A227?style=flat-square">
   </a>
 </div>
 
