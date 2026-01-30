@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <a href="./README.md">
     <img src="https://img.shields.io/badge/Idioma-PT--BR-blue?style=flat-square">
   </a>
