@@ -20,7 +20,6 @@
   In one of my most recent projects, I managed to reduce **97% of a data routine’s execution time** simply by rethinking the process and automating what made sense ✨
 
   I also enjoy exploring how **UI/UX** can make dashboards more intuitive and less “spreadsheet-looking”.
-</div>
 
 <hr width="60%">
 
@@ -38,6 +37,7 @@
 <hr width="60%">
 
 ### A bit more about me
+</div>
 
 ```python
 class AboutMe:
@@ -65,7 +65,6 @@ class AboutMe:
         return "Eliminate the next repetitive manual process I come across ;)"
 ```
 
-<hr width="60%">
  <div align="center">
   <p> Feel free to explore my repositories or get in touch 👇 </p>
   <p> <a href="mailto:izabel.mcarvalho98@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/> </a>
