@@ -1,4 +1,13 @@
 <div align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-blue?style=flat-square">
+  </a>
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/Language-EN-yellow?style=flat-square">
+  </a>
+</div>
+
+<div align="center">
   <h1>Olá 👋</h1>
 
   <h3>Eu sou a Iza</h3>
@@ -65,4 +74,3 @@ class SobreMim:
     </a> 
   </p> 
 </div>
-
