@@ -1,4 +1,6 @@
-# Olá, eu sou a Iza! ✨
+<div align="center">
+# Olá 👋
+## Eu sou a Iza.
 ![focus](https://img.shields.io/badge/Data_Analytics-gold) ![living](https://img.shields.io/badge/Brazil-silver) 
 
 <p>▪️ Recém formada em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul</p>
@@ -28,5 +30,5 @@
   <a href="https://www.linkedin.com/in/izabel-mcarvalho/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" alt="LinkedIn"/></a>
 </p>
-
+</div>
 
